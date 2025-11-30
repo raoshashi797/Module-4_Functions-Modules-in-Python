@@ -12,6 +12,10 @@ Problem Statement: Write a Python program that:
 <img width="403" height="47" alt="image" src="https://github.com/user-attachments/assets/8ecedb38-eb8c-4133-871c-d27379ef97ec" />
 
 
+
+
+
+
 **Task 2: Using the Math Module for Calculations
  
 Problem Statement: Write a Python program that:**
