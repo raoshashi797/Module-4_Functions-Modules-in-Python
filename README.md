@@ -8,6 +8,7 @@ Problem Statement: Write a Python program that:
 3.   Calls the function with a sample number and prints the output.
  
 **Expected Output:**
+
 <img width="403" height="47" alt="image" src="https://github.com/user-attachments/assets/8ecedb38-eb8c-4133-871c-d27379ef97ec" />
 
 
